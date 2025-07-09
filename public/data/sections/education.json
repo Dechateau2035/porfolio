@@ -1,0 +1,223 @@
+{
+    "locales": {
+        "en": {
+            "title": "Education",
+            "title_long_prefix": "This is my",
+            "title_long": "**Educational** journey"
+        },
+        "es": {
+            "title": "Educación",
+            "title_long_prefix": "Este es mi",
+            "title_long": "**Trayectoria** educativa"
+        },
+        "fr": {
+            "title": "Éducation",
+            "title_long_prefix": "C'est mon",
+            "title_long": "**Parcours** scolaire"
+        },
+        "ko": {
+            "title": "교육",
+            "title_long_prefix": "이것은 나의",
+            "title_long": "**학업** 여정"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "academic",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/place-5.png",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "dates": {
+                        "start": "09/21/2020",
+                        "end": "07/07/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**UDT** in Computer Science",
+                            "info": "IUT FOTSO Victor",
+                            "text": "Obtained a University Degree of Technology in Computer Science, focusing on algorithms, data structures, object-oriented programming, command-line application development, and web development. Gained practical experience through various programming projects.",
+                            "tags": [
+                                "UML",
+                                "Embedded Systems",
+                                "Arduino",
+                                "OOP",
+                                "Java/C",
+                                "HTML5/CSS3"
+                            ]
+                        },
+                        "es": {
+                            "title": "**DUT** en Informática",
+                            "info": "IUT FOTSO Victor",
+                            "text": "Obtuve un diploma universitario en tecnología especializado en Informática, con enfoque en algoritmos, estructuras de datos, programación orientada a objetos, desarrollo de aplicaciones de línea de comandos y desarrollo web. Adquirí experiencia práctica a través de varios proyectos de programación.",
+                            "tags": [
+                                "UML",
+                                "Sistemas embebidos",
+                                "Arduino",
+                                "POO",
+                                "Java/C",
+                                "HTML5/CSS3"
+                            ]
+                        },
+                        "fr": {
+                            "title": "**DUT** en Informatique",
+                            "info": "IUT FOTSO Victor",
+                            "text": "Obtenu une licence en Informatique, avec un accent sur les algorithmes, les structures de données, la programmation orientée objet , développement d’applications en ligne de commande et le développement web. Acquis une expérience pratique à travers divers projets de programmation.",
+                            "tags": [
+                                "UML",
+                                "Systeme embarque",
+                                "Arduino",
+                                "POO",
+                                "Java/C",
+                                "HTML5/CSS3"
+                            ]
+                        },
+                        "ko": {
+                            "title": "**DUT** 컴퓨터 과학",
+                            "info": "IUT FOTSO Victor",
+                            "text": "컴퓨터 과학을 전공으로 한 기술 대학 학위를 취득했으며, 알고리즘, 데이터 구조, 객체 지향 프로그래밍, 명령 줄 응용 프로그램 개발 및 웹 개발에 중점을 두었습니다. 다양한 프로그래밍 프로젝트를 통해 실무 경험을 쌓았습니다.",
+                            "tags": [
+                                "UML",
+                                "임베디드 시스템",
+                                "아두이노",
+                                "객체 지향 프로그래밍",
+                                "Java/C",
+                                "HTML5/CSS3"
+                            ]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/place-2.jpg",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "dates": {
+                        "start": "09/02/2019",
+                        "end": "05/15/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Baccalaureate **Option S**",
+                            "info": "Lycée de Nylon Ndogpassi",
+                            "text": "Obtained my Baccalaureate Option S, with skills to solve complex problems using concepts in computer science, applied mathematics, physics, anatomy science, and chemistry.",
+                            "tags": [
+                                "Mathematical Sciences",
+                                "Space Geometry",
+                                "Atomic Physics"
+                            ]
+                        },
+                        "es": {
+                            "title": "Bachillerato **Opción S**",
+                            "info": "Lycée de Nylon Ndogpassi",
+                            "text": "Obtuve mi Bachillerato Opción S, con habilidades para resolver problemas complejos utilizando conceptos de informática, matemáticas aplicadas, física, ciencias de la anatomía y química.",
+                            "tags": [
+                                "Ciencias Matemáticas",
+                                "Geometría Espacial",
+                                "Física Atómica"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Baccalauréat **Option S**",
+                            "info": "Lycée de Nylon Ndogpassi",
+                            "text": "Obtenu mon Baccaleaureat Option S, avec des aptitudes de resoudres des problemes complexes en utilisant des notions en informatique, mathématiques appliquées, physique , science de l'anatomie et chimie ",
+                            "tags": [
+                                "Science de mathématiques",
+                                "Geometrie de l'espace",
+                                "Physique des atomes"
+                            ]
+                        },
+                        "ko": {
+                            "title": "바칼로레아 **S 옵션**",
+                            "info": "Nylon Ndogpassi 고등학교",
+                            "text": "컴퓨터 과학, 응용 수학, 물리학, 해부학 과학 및 화학 개념을 사용하여 복잡한 문제를 해결하는 능력을 갖춘 바칼로레아 S 옵션을 취득했습니다.",
+                            "tags": [
+                                "수학 과학",
+                                "공간 기하학",
+                                "원자 물리학"
+                            ]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/place-6.png",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "dates": {
+                        "start": "10/10/2022",
+                        "end": "07/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Engineering Degree** in Computer Science",
+                            "info": "Polytechnic Institute of Advanced Sciences of the South",
+                            "text": "<p>I am pursuing an engineering degree in computer science focused on cutting-edge topics in web development, including:</p> <ul><li>Software architecture design</li><li>FullStack development</li><li>Software deployment</li><li>Software lifecycle management</li></ul> <p class='mt-3'>I have applied my knowledge to various practical cases, combining academic excellence with real-world innovation.</p>",
+                            "tags": [
+                                "computer-science",
+                                "web-development and mobile",
+                                "software-engineering",
+                                "fullstack",
+                                "innovation",
+                                "software-lifecycle", "Flutter,Dart", "Stack MERN"
+                            ]
+                        },
+                        "es": {
+                            "title": "**Título de Ingeniería** en Informática",
+                            "info": "Instituto Politécnico de Ciencias Avanzadas del Sur",
+                            "text": "<p>Estoy cursando un título de ingeniería en informática enfocado en temas de vanguardia en desarrollo web, incluyendo:</p> <ul><li>Diseño de arquitectura de software</li><li>Desarrollo FullStack</li><li>Despliegue de software</li><li>Gestión del ciclo de vida del software</li></ul> <p class='mt-3'>He aplicado mis conocimientos en diversos casos prácticos que combinan excelencia académica e innovación en el mundo real.</p>",
+                            "tags": [
+                                "informática",
+                                "desarrollo-web",
+                                "ingeniería-de-software",
+                                "fullstack",
+                                "innovación",
+                                "ciclo-de-vida-del-software"
+                            ]
+                        },
+                        "fr": {
+                            "title": "**Diplome d'ingénieurie** en informatique",
+                            "info": "Institut Polytechnique des Sciences avancées du Sud",
+                            "text": "<p>Je suis un cursus d'ingénieurie en informatique axé sur les sujets de pointe en developpement web y compris:</p> <ul><li>Conception d'architecture logicielle</li><li>Developpement FullStack</li><li>Deploiement de logiciel</li><li>Cycle de vie de logiciel</li></ul> <p class='mt-3'>J'ai appliqué mes connaissances dans divers cas pratiques alliant excellence académique et innovation réelle.</p>",
+                            "tags": ["Developpement web et Mobile","Architecture Logiciel","API REST","Microservices","Java/C++","ReactJs/Blazor/Thymleaf", "Flutter,Dart", "Stack MERN"]
+                        },
+                        "ko": {
+                            "title": "**컴퓨터 공학** 학위",
+                            "info": "남부 고등 과학 기술 폴리테크닉 연구소",
+                            "text": "<p>저는 컴퓨터 공학 학위를 취득 중이며 웹 개발의 최첨단 주제에 중점을 두고 있습니다. 주요 내용은 다음과 같습니다:</p> <ul><li>소프트웨어 아키텍처 설계</li><li>풀스택 개발</li><li>소프트웨어 배포</li><li>소프트웨어 라이프사이클 관리</li></ul> <p class='mt-3'>학문적 우수성과 실제 혁신을 결합한 다양한 실습 사례에 제 지식을 적용해 왔습니다.</p>",
+                            "tags": [
+                                "컴퓨터공학",
+                                "웹개발",
+                                "소프트웨어엔지니어링",
+                                "풀스택",
+                                "혁신",
+                                "소프트웨어라이프사이클"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

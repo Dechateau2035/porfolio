@@ -1,0 +1,353 @@
+{
+    "locales": {
+        "en": {
+            "title": "Welcome!",
+            "title_menu": "About me",
+            "title_long_prefix": "Hello...",
+            "title_long": "I'm **Foyou Dechateau!**"
+        },
+
+        "es": {
+            "title": "¡Saludos!",
+            "title_menu": "Sobre mí",
+            "title_long_prefix": "Hola...",
+            "title_long": "Soy **Foyou Dechateau!**"
+        },
+
+        "fr": {
+            "title": "Salut !",
+            "title_menu": "À propos",
+            "title_long_prefix": "Salut...",
+            "title_long": "Je suis **Dechateau Foyou !**"
+        },
+
+        "ko": {
+            "title": "환영합니다!",
+            "title_menu": "소개",
+            "title_long_prefix": "안녕하세요...",
+            "title_long": "저는 **Foyou Dechateau** 입니다!"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "ignorePaddingTop": true,
+                "format": "inline"
+            },
+            "locales": {
+                "en": {},
+                "es": {},
+                "fr": {},
+                "ko": {}
+            },
+
+            "items": [
+                {
+                    "value": "@dechdev",
+                    "links": [
+                        {"href": "https://www.linkedin.com/in/dechdev"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-linkedin",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "dechateaufoyou@gmail.com",
+                    "links": [
+                        {"href": "mailto:dechateaufoyou@gmail.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "@Dechateau2035",
+                    "links": [
+                        {"href": "https://github.com/Dechateau2035"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-github",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "short_description",
+            "component": "ArticleInfoBlock",
+            "config": {},
+            "locales": {
+                "en": {"title": "**A little bit** about me..."},
+                "es": {"title": "**Un poco** sobre mí..."},
+                "fr": {"title": "**Un peu** à propos de moi..."},
+                "ko": {"title": "저에 **대해 조금**..."}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/svg/logo.svg",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "text": "<p>As a computer engineering graduate with nearly three years of experience, I am passionate about web development, with a strong focus on <b>backend development</b> and a solid grasp of frontend technologies. Throughout my journey, I have successfully delivered scalable and robust solutions across diverse technical and functional environments.</p> <p>My experience includes building everything from showcase websites to more complex web applications, while strengthening my skills in software architecture, database management, and RESTful API development. Each project has been an opportunity to grow, refine my practices, and propose innovative and reliable solutions.</p> <p>I am driven by technical challenges and the constant pursuit of clean, maintainable, and high-performance code. I am now ready to contribute to ambitious new projects within dynamic and collaborative teams.</p>"
+                        },
+                        "es": {
+                            "text": "<p>Como desarrollador web en formación con <b>casi tres años</b> de experiencia, especializado en desarrollo backend con algo de trabajo también en frontend, he tenido la oportunidad de trabajar en varios proyectos enriquecedores.</p><p>Cada proyecto en el que he trabajado es una nueva oportunidad para aprender y aplicar las habilidades técnicas adquiridas a lo largo del tiempo. He colaborado en proyectos variados, desde la creación de sitios web hasta aplicaciones más complejas. Mi portafolio refleja esta diversidad y demuestra mi compromiso con entregar un trabajo de calidad.</p><p>Estoy emocionado por enfrentar nuevos desafíos y realizar <b>proyectos innovadores</b> en el futuro.</p>"
+                        },
+                        "fr": {
+                            "text": "<p>Ingénieur en informatique passionné par le développement web, je bénéficie de près de trois ans d'expérience, principalement en <b>développement backend</b>, avec une solide compréhension du frontend. Au fil de mes projets, j’ai su mettre en œuvre des solutions robustes et évolutives, en m’adaptant à des contextes techniques et fonctionnels variés.</p> <p>Mon parcours m’a permis de concevoir aussi bien des sites vitrines que des applications web complexes, tout en consolidant mes compétences en architecture logicielle, en gestion de base de données, et en API REST. Chaque projet est pour moi une opportunité de progresser, d’optimiser mes pratiques et de proposer des solutions innovantes et fiables.</p> <p>Je suis motivé par les défis techniques et l’envie constante de produire un code de qualité, maintenable et performant. Je suis aujourd’hui prêt à m’investir dans de nouveaux projets ambitieux, au sein d’équipes dynamiques et stimulantes.</p>"
+                        },
+                        "ko": {
+                            "text": "<p>웹 개발자로서 <b>3년 가까이</b>의 경험을 가지고 있으며, 주로 백엔드 개발을 전문으로 하고 약간의 프론트엔드 작업도 수행해본 경험이 있습니다. 여러 가지 풍부한 프로젝트에서 작업할 기회를 가졌습니다.</p><p>각각의 프로젝트는 제가 배운 기술을 실천하고 적용할 수 있는 새로운 기회입니다. 저는 다양한 프로젝트에서 협업했으며, 사이트 구축부터 더 복잡한 애플리케이션까지 다루었습니다. 제 포트폴리오는 이러한 다양성을 반영하고 고품질의 작업을 제공하기 위한 저의 헌신을 보여줍니다.</p><p>저는 새로운 도전에 대한 열정이 있으며 <b>혁신적인 프로젝트</b>를 실현할 수 있기를 기대합니다.</p>"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "testimonials",
+            "component": "ArticleTestimonials",
+            "config": {},
+            "locales": {
+                "en": {"title": "Client **testimonials**"},
+                "es": {"title": "Testimonios de **clientes**"},
+                "fr": {"title": "Témoignages de **clients**"},
+                "ko": {"title": "**고객** 추천사"}
+            },
+
+            "items": [
+                {
+                    "value": "Mathieu Fistele",
+                    "links": [
+                        {"href": "https://www.linkedin.com/in/mntono/"}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-4.png",
+                        "fa": "fa-solid fa-user",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "CEO at <b>tikosoft</b>",
+                            "text": "Working with Dechateau was a transformative experience. His programming skills and dedication not only improved our project but also inspired the entire team."
+                        },
+                        "es": {
+                            "info": "CEO en <b>tikosoft</b>",
+                            "text": "Trabajar con Dechateau fue una experiencia transformadora. Sus habilidades de programación y dedicación no solo mejoraron nuestro proyecto, sino que también inspiraron a todo el equipo."
+                        },
+                        "fr": {
+                            "info": "PDG de <b>tikosoft</b>",
+                            "text": "Travailler avec Dechateau a été une expérience transformative. Ses compétences en programmation et son dévouement ont non seulement amélioré notre projet, mais ont également inspiré toute l'équipe."
+                        },
+                        "ko": {
+                            "info": "tikosoft  CEO",
+                            "text": "Dechateau와의 협업은 변화를 가져오는 경험이었습니다. 그의 프로그래밍 기술과 헌신은 우리 프로젝트를 개선할 뿐만 아니라 팀 전체에 영감을 주었습니다."
+                        }
+                    }
+                },
+
+                {
+                    "value": "Paul Leufang",
+                    "links": [
+                        {"href": "https://www.linkedin.com/in/paul-leufang-b4a462168/"}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-3.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Senior Backend Developer",
+                            "text": "Working with Dechateau has been an exceptional experience. As a young backend developer, he demonstrated an incredible sense of initiative and a quick ability to grasp complex technical concepts. His methodical approach and hard work were essential in successfully completing our project. He was always prompt in solving problems and showed great rigor in development. I am confident he will continue to excel and progress in his career. He is a young talent to watch!"
+                        },
+                        "es": {
+                            "info": "Desarrollador Backend Senior",
+                            "text": "Trabajar con Dechateau ha sido una experiencia excepcional. Como joven desarrollador backend, mostró un increíble sentido de la iniciativa y una rapidez para asimilar conceptos técnicos complejos. Su enfoque metódico y su arduo trabajo fueron esenciales para llevar a cabo con éxito nuestro proyecto. Siempre fue rápido para resolver problemas y demostró una gran rigurosidad en el desarrollo. Estoy convencido de que seguirá destacándose y progresando en su carrera. ¡Es un talento joven a seguir!"
+                        },
+                        "fr": {
+                            "info": "Développeur Backend Senior",
+                            "text": "Travailler avec Dechateau a été une expérience exceptionnelle. En tant que jeune développeur backend, il a montré un incroyable sens de l’initiative et une rapidité à assimiler des concepts techniques complexes. Son approche méthodique et son travail acharné ont été essentiels pour mener à bien notre projet. Il a toujours été prompt à résoudre les problèmes et a fait preuve d'une grande rigueur dans le développement. Je suis convaincu qu'il continuera à exceller et à progresser dans sa carrière. C’est un jeune talent à suivre !"
+                        },
+                        "ko": {
+                            "info": "백엔드 개발자 선임",
+                            "text": "Dechateau와 함께 작업한 경험은 매우 뛰어난 경험이었습니다. 젊은 백엔드 개발자로서 그는 뛰어난 주도성과 복잡한 기술적 개념을 빠르게 습득하는 능력을 보여주었습니다. 그의 체계적인 접근 방식과 끊임없는 노력은 우리 프로젝트를 성공적으로 완수하는 데 필수적이었습니다. 그는 항상 문제를 신속하게 해결했으며 개발에서 큰 철저함을 보였습니다. 저는 그가 계속해서 뛰어난 성과를 내며 성장할 것이라 확신합니다. 그는 주목해야 할 젊은 인재입니다!"
+                        }
+                    }
+                },
+
+                {
+                    "value": "Ronice Yemeli",
+                    "links": [
+                        {
+                            "href": "https://www.linkedin.com/in/roniceyemeli/"
+                        }
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-3.png",
+                        "fa": null,
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Tech Project Manager",
+                            "text": "As a project manager, I was particularly impressed by Dechateau's work ethic. Despite his young age, he demonstrated an incredible ability to stay focused and deliver effective solutions within tight deadlines. His promptness in taking initiative and his ability to understand technical requirements were invaluable assets to the team."
+                        },
+                        "es": {
+                            "info": "Jefe de Proyecto Técnico",
+                            "text": "Como jefe de proyecto, me impresionó especialmente la ética de trabajo de Dechateau. A pesar de su corta edad, demostró una increíble capacidad para mantenerse concentrado y ofrecer soluciones eficaces dentro de plazos ajustados. Su prontitud para tomar la iniciativa y su capacidad para entender los requisitos técnicos fueron activos valiosos para el equipo."
+                        },
+                        "fr": {
+                            "info": "Chef de Projet Tech",
+                            "text": "En tant que chef de projet, j’ai été particulièrement impressionné par l’éthique de travail de Dechateau. Malgré son jeune âge, il a démontré une incroyable capacité à rester concentré et à fournir des solutions efficaces dans des délais serrés. Sa promptitude à prendre des initiatives et sa capacité à comprendre les besoins techniques ont été un atout précieux pour l’équipe."
+                        },
+                        "ko": {
+                            "info": "기술 프로젝트 관리자",
+                            "text": "프로젝트 관리자として Dechateau의 업무 윤리에 깊은 인상을 받았습니다. 그의 나이에 비해, 그는 짧은 시간 안에 효율적인 솔루션을 제공하는 능력을 보여주었고, 항상 집중력을 유지하는 놀라운 능력을 발휘했습니다. 주도적으로 문제를 해결하는 자세와 기술적인 요구 사항을 이해하는 능력은 팀에 큰 자산이 되었습니다."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "interests",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {"title": "Personal **interests**"},
+                "es": { "title": "Intereses **personales**" },
+                "fr": { "title": "Intérêts **personnels** " },
+                "ko": { "title": "개인 **관심사**" }
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-computer",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Tech Watch",
+                            "info": "Staying updated with the latest web tech trends."
+                        },
+                        "es": {
+                            "title": "Tocar la guitarra",
+                            "info": "Explorando diferentes géneros y mejorando mis habilidades."
+                        },
+                        "fr": {
+                            "title": "Veille technologique",
+                            "info": "Suivre les dernières tendances du web."
+                        },
+                        "ko": {
+                            "title": "기타 연주",
+                            "info": "다양한 장르를 탐험하고 기술을 향상시키기."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-sharp fa-sharp fa-solid fa-face-smile",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Personal Projects",
+                            "info": "Building personal apps to test new technologies."
+                        },
+                        "es": {
+                            "title": "Ilustración",
+                            "info": "Practicando arte digital y explorando nuevos estilos."
+                        },
+                        "fr": {
+                            "title": "Projets personnels",
+                            "info": "Créer des applications personnelles pour tester de nouvelles technologies."
+                        },
+                        "ko": {
+                            "title": "일러스트레이션",
+                            "info": "디지털 아트를 연습하고 새로운 스타일을 탐험하기."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-pencil-alt",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Design & UX/UI",
+                            "info": "Practicing digital art and exploring new styles."
+                        },
+                        "es": {
+                            "title": "Diseño UX",
+                            "info": "Estudiando los principios de la experiencia del usuario."
+                        },
+                        "fr": {
+                            "title": "Design & UX/UI",
+                            "info": "Pratiquer l’art numérique et explorer de nouveaux styles."
+                        },
+                        "ko": {
+                            "title": "UX 디자인",
+                            "info": "사용자 경험 원칙을 공부하기."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-brain",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Continuous Learning",
+                            "info": "Learning through online courses and tutorials."
+                        },
+                        "es": {
+                            "title": "Edición de fotos",
+                            "info": "Mejorando fotos a través de técnicas creativas de edición."
+                        },
+                        "fr": {
+                            "title": "Apprentissage continu",
+                            "info": "Apprendre via des cours et tutoriels en ligne."
+                        },
+                        "ko": {
+                            "title": "사진 편집",
+                            "info": "창의적인 편집 기술을 통해 사진을 향상시키기."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
