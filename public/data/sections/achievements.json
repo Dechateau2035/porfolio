@@ -45,26 +45,56 @@
                 {
                     "icon": {
                         "img": null,
+                        "fa": "fa-solid fa-robot",
+                        "faColors": {"bg": "#326CE5", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "20/07/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.linkedin.com/learning/certificates/1dc9fe0ac0ff23f1a5791e294a9a909cd2171d16b1edcd0897fcf8d09e085c72?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BXDvjExM2SSCYBFvw8QohcA%3D%3D" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "IA **Generated**",
+                            "text": "Understanding the fundamentals of generative AI."
+                        },
+                        "es": {
+                            "text": ""
+                        },
+                        "fr": {
+                            "title": "IA **Générative**",
+                            "text": "Comprendre les fondamentaux de l'IA générative."
+                        },
+                        "ko": {
+                            "text": ""
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
                         "fa": "fa-solid fa-life-ring",
                         "faColors": {"bg": "#326CE5", "fill": "#EEE"}
                     },
                     "dates": {
-                        "start": "12/01/2020",
+                        "start": "12/01/2023",
                         "end": null
                     },
                     "links": [
-                        { "string": "see_certification", "href": "https://www.linuxfoundation.org/" }
+                        { "string": "see_certification", "href": "https://openclassrooms.com/fr/courses/6900101-creez-une-application-java-avec-spring-boot" }
                     ],
                     "locales": {
                         "en": {
-                            "title": "The **Linux Foundation**",
-                            "text": "Certified Kubernetes Administrator (CKA)"
+                            "title": "Spring **Boot**",
+                            "text": "Certified java developer with OpenClassroom"
                         },
                         "es": {
                             "text": "Administrador Kubernetes Certificado (CKA)"
                         },
                         "fr": {
-                            "text": "Administrateur Kubernetes Certifié (CKA)"
+                            "text": "Developpeur Java Certifié avec OpenClassroom(CKA)"
                         },
                         "ko": {
                             "text": "인증된 쿠버네티스 관리자 (CKA)"
@@ -74,7 +104,7 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-aws",
+                        "fa": "fa-solid fa-shield-halved",
                         "faColors": {"bg": "#FFD700", "fill": "#111"}
                     },
                     "dates": {
@@ -82,18 +112,19 @@
                         "end": null
                     },
                     "links": [
-                        { "string": "see_certification", "href": "https://www.aws.com/" }
+                        { "string": "see_certification", "href": "https://openclassrooms.com/fr/course-certificates/7315880884" }
                     ],
                     "locales": {
                         "en": {
-                            "title": "**Amazon** Web Services",
-                            "text": "AWS Certified Solutions Architect – Associate"
+                            "title": "**CyberSecurity**",
+                            "text": "Cybersecurity Fundamentals"
                         },
                         "es": {
-                            "text": "Arquitecto de Soluciones Certificado de AWS – Asociado"
+                            "text": ""
                         },
                         "fr": {
-                            "text": "Architecte de Solutions Certifié AWS – Associé"
+                            "title": "**CyberSecurité**",
+                            "text": "Les fondamentaux sur la cybersecurité"
                         },
                         "ko": {
                             "text": "AWS 인증 솔루션 아키텍트 – 어소시에이트"
@@ -103,58 +134,58 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-java",
+                        "fa": "fa-brands fa-wordpress",
                         "faColors": {"bg": "#007396", "fill": "#EEE"}
                     },
                     "dates": {
-                        "start": "05/05/2022",
+                        "start": "05/06/2022",
                         "end": null
                     },
                     "links": [
-                        { "string": "see_certification", "href": "https://www.oracle.com/" }
+                        { "string": "see_certification", "href": "https://openclassrooms.com/fr/course-certificates/6613921471" }
                     ],
                     "locales": {
                         "en": {
-                            "title": "**Oracle**",
-                            "text": "Certified Java Developer"
+                            "title": "**WordPress**",
+                            "text": "Creating a modern website with WordPress 5"
                         },
                         "es": {
-                            "text": "Desarrollador Java Certificado"
+                            "text": ""
                         },
                         "fr": {
-                            "text": "Développeur Java Certifié"
+                            "text": "Création de site moderne avec WordPress 5"
                         },
                         "ko": {
-                            "text": "인증된 자바 개발자"
+                            "text": ""
                         }
                     }
                 },
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-database",
-                        "faColors": {"bg": "#47A248", "fill": "#EEE"}
+                        "fa": "fa-solid fa-c",
+                        "faColors": {"bg": "#007396", "fill": "#EEE"}
                     },
                     "dates": {
-                        "start": "08/15/2023",
+                        "start": "01/05/2022",
                         "end": null
                     },
                     "links": [
-                        { "string": "see_certification", "href": "https://www.mongodb.com/" }
+                        { "string": "see_certification", "href": "https://openclassrooms.com/fr/course-certificates/8825118941" }
                     ],
                     "locales": {
                         "en": {
-                            "title": "**MongoDB** University",
-                            "text": "MongoDB Certified Developer"
+                            "title": "**C/C++**",
+                            "text": "Programming in C/C++"
                         },
                         "es": {
-                            "text": "Desarrollador Certificado en MongoDB"
+                            "text": ""
                         },
                         "fr": {
-                            "text": "Développeur Certifié MongoDB"
+                            "text": "Programmer en C/C++"
                         },
                         "ko": {
-                            "text": "몽고디비 인증 개발자"
+                            "text": ""
                         }
                     }
                 }
