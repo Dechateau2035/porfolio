@@ -40,14 +40,14 @@
                         }
                     },
                     "dates": {
-                        "start": "09/21/2020",
-                        "end": "07/07/2022"
+                        "start": "09/01/2020",
+                        "end": "07/31/2022"
                     },
                     "locales": {
                         "en": {
-                            "title": "**UDT** in Computer Science",
-                            "info": "IUT FOTSO Victor",
-                            "text": "Obtained a University Degree of Technology in Computer Science, focusing on algorithms, data structures, object-oriented programming, command-line application development, and web development. Gained practical experience through various programming projects.",
+                            "title": "**DUT** in Software Engineering",
+                            "info": "IUT FOTSO Victor – Cameroon",
+                            "text": "University Technology Degree (DUT) in Software Engineering. <b>Distinction — GPA: 14.05/20.</b> Focus on algorithms, data structures, object-oriented programming, command-line and web development. Gained practical experience through various programming projects.",
                             "tags": [
                                 "UML",
                                 "Embedded Systems",
@@ -71,9 +71,9 @@
                             ]
                         },
                         "fr": {
-                            "title": "**DUT** en Informatique",
-                            "info": "IUT FOTSO Victor",
-                            "text": "Obtenu une licence en Informatique, avec un accent sur les algorithmes, les structures de données, la programmation orientée objet , développement d’applications en ligne de commande et le développement web. Acquis une expérience pratique à travers divers projets de programmation.",
+                            "title": "**DUT** en Génie Logiciel",
+                            "info": "IUT FOTSO Victor – Cameroun",
+                            "text": "DUT en Génie Logiciel. <b>Mention Bien — Moyenne : 14,05/20.</b> Formation axée sur les algorithmes, les structures de données, la POO, le développement d’applications et le développement web. Expérience pratique à travers divers projets de programmation.",
                             "tags": [
                                 "UML",
                                 "Systeme embarque",
@@ -167,53 +167,32 @@
                     },
                     "dates": {
                         "start": "10/10/2022",
-                        "end": "07/01/2025"
+                        "end": "08/31/2025"
                     },
                     "locales": {
                         "en": {
                             "title": "**Engineering Degree** in Computer Science",
-                            "info": "Polytechnic Institute of Advanced Sciences of the South",
-                            "text": "<p>I am pursuing an engineering degree in computer science focused on cutting-edge topics in web development, including:</p> <ul><li>Software architecture design</li><li>FullStack development</li><li>Software deployment</li><li>Software lifecycle management</li></ul> <p class='mt-3'>I have applied my knowledge to various practical cases, combining academic excellence with real-world innovation.</p>",
-                            "tags": [
-                                "computer-science",
-                                "web-development and mobile",
-                                "software-engineering",
-                                "fullstack",
-                                "innovation",
-                                "software-lifecycle", "Flutter,Dart", "Stack MERN"
-                            ]
+                            "info": "IPSAS – Polytechnic Institute of Advanced Sciences of the South",
+                            "text": "<p>Engineering degree in computer science with a focus on modern web & mobile development. <b>Distinction — GPA: 15.24/20.</b> Topics covered:</p> <ul><li>Software architecture design</li><li>Fullstack JavaScript development</li><li>Microservices & REST API design</li><li>Software deployment & DevOps</li><li>Software lifecycle management</li></ul> <p class='mt-3'>Applied knowledge through multiple practical projects, combining academic excellence with real-world innovation.</p>",
+                            "tags": ["JavaScript", "React.js", "NestJS", "Flutter", "Stack MERN", "Microservices", "Docker"]
                         },
                         "es": {
                             "title": "**Título de Ingeniería** en Informática",
-                            "info": "Instituto Politécnico de Ciencias Avanzadas del Sur",
-                            "text": "<p>Estoy cursando un título de ingeniería en informática enfocado en temas de vanguardia en desarrollo web, incluyendo:</p> <ul><li>Diseño de arquitectura de software</li><li>Desarrollo FullStack</li><li>Despliegue de software</li><li>Gestión del ciclo de vida del software</li></ul> <p class='mt-3'>He aplicado mis conocimientos en diversos casos prácticos que combinan excelencia académica e innovación en el mundo real.</p>",
-                            "tags": [
-                                "informática",
-                                "desarrollo-web",
-                                "ingeniería-de-software",
-                                "fullstack",
-                                "innovación",
-                                "ciclo-de-vida-del-software"
-                            ]
+                            "info": "IPSAS – Instituto Politécnico de Ciencias Avanzadas del Sur",
+                            "text": "<p>Título de ingeniería en informática centrado en el desarrollo web y móvil moderno. <b>Mención Bien — Media: 15,24/20.</b> Temas cubiertos:</p> <ul><li>Diseño de arquitectura de software</li><li>Desarrollo Fullstack JavaScript</li><li>Diseño de Microservicios y APIs REST</li><li>Despliegue de software y DevOps</li><li>Gestión del ciclo de vida del software</li></ul>",
+                            "tags": ["JavaScript", "React.js", "NestJS", "Flutter", "Stack MERN", "Microservices", "Docker"]
                         },
                         "fr": {
-                            "title": "**Diplome d'ingénieurie** en informatique",
-                            "info": "Institut Polytechnique des Sciences avancées du Sud",
-                            "text": "<p>Je suis un cursus d'ingénieurie en informatique axé sur les sujets de pointe en developpement web y compris:</p> <ul><li>Conception d'architecture logicielle</li><li>Developpement FullStack</li><li>Deploiement de logiciel</li><li>Cycle de vie de logiciel</li></ul> <p class='mt-3'>J'ai appliqué mes connaissances dans divers cas pratiques alliant excellence académique et innovation réelle.</p>",
-                            "tags": ["Developpement web et Mobile","Architecture Logiciel","API REST","Microservices","Java/C++","ReactJs/Blazor/Thymleaf", "Flutter,Dart", "Stack MERN"]
+                            "title": "**Diplôme d'Ingénieur** en Informatique",
+                            "info": "IPSAS – Institut Polytechnique des Sciences Avancées du Sud",
+                            "text": "<p>Diplôme d'ingénieur en informatique axé sur le développement web et mobile. <b>Mention Bien — Moyenne : 15,24/20.</b> Points clés du cursus :</p> <ul><li>Conception d'architectures logicielles</li><li>Développement Fullstack JavaScript</li><li>Microservices & conception d'APIs REST</li><li>Déploiement logiciel & DevOps</li><li>Cycle de vie du logiciel</li></ul> <p class='mt-3'>Connaissances appliquées à travers de nombreux projets pratiques, alliant excellence académique et innovation réelle.</p>",
+                            "tags": ["JavaScript", "React.js", "NestJS", "Flutter", "Stack MERN", "Microservices", "Docker"]
                         },
                         "ko": {
                             "title": "**컴퓨터 공학** 학위",
-                            "info": "남부 고등 과학 기술 폴리테크닉 연구소",
-                            "text": "<p>저는 컴퓨터 공학 학위를 취득 중이며 웹 개발의 최첨단 주제에 중점을 두고 있습니다. 주요 내용은 다음과 같습니다:</p> <ul><li>소프트웨어 아키텍처 설계</li><li>풀스택 개발</li><li>소프트웨어 배포</li><li>소프트웨어 라이프사이클 관리</li></ul> <p class='mt-3'>학문적 우수성과 실제 혁신을 결합한 다양한 실습 사례에 제 지식을 적용해 왔습니다.</p>",
-                            "tags": [
-                                "컴퓨터공학",
-                                "웹개발",
-                                "소프트웨어엔지니어링",
-                                "풀스택",
-                                "혁신",
-                                "소프트웨어라이프사이클"
-                            ]
+                            "info": "IPSAS – 남부 고등 과학 기술 폴리테크닉 연구소",
+                            "text": "<p>현대 웹 및 모바일 개발에 초점을 맞춘 컴퓨터 공학 학위. <b>우수 — 평점: 15.24/20.</b> 주요 내용:</p> <ul><li>소프트웨어 아키텍처 설계</li><li>풀스택 JavaScript 개발</li><li>마이크로서비스 & REST API 설계</li><li>소프트웨어 배포 & DevOps</li><li>소프트웨어 라이프사이클 관리</li></ul>",
+                            "tags": ["JavaScript", "React.js", "NestJS", "Flutter", "Stack MERN", "Microservices", "Docker"]
                         }
                     }
                 }

@@ -22,6 +22,13 @@
         },
 
         {
+            "id": "portfolio",
+            "categoryId": "showcase",
+            "jsonPath": "/data/sections/portfolio.json",
+            "faIcon": "fa-solid fa-briefcase"
+        },
+
+        {
             "id": "experience",
             "categoryId": "background",
             "jsonPath": "/data/sections/experience.json",

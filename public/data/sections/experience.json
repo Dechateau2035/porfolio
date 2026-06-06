@@ -77,8 +77,8 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "06/01/2023",
-                        "end": "09/01/2023"
+                        "start": "05/01/2023",
+                        "end": "07/31/2023"
                     },
                     "locales": {
                         "en": {
@@ -114,12 +114,12 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "02/01/2024",
-                        "end": "10/01/2024"
+                        "start": "05/01/2024",
+                        "end": "09/30/2024"
                     },
                     "locales": {
                         "en": {
-                            "title": "**Mobile** Developer",
+                            "title": "**Fullstack** Developer",
                             "info": "tikosoft",
                             "text": "<p>Professional internship focused on the design and development of a mobile carpooling application, aimed at helping users from the same community share their journeys efficiently. Key aspects of the project included:</p><ul> <li>Design and implementation of a web and mobile architecture</li> <li>Development of RESTful APIs to manage users, trips, and reservations</li> <li>Integration of a secure authentication and authorization system</li> <li>Implementation of geolocation and route optimization features</li> <li>Database modeling and performance tuning</li> <li>Use of modern tools and frameworks (React, Node.js, MongoDB, etc.)</li> </ul>",
                             "tags": ["Flutter/Dart", "Node.js", "MongoDB", "REST", "Firebase"]
@@ -131,7 +131,7 @@
                             "tags": null
                         },
                         "fr": {
-                            "title": "Développeur **Mobile**",
+                            "title": "Développeur **Fullstack**",
                             "info": "tikosoft",
                             "text": "<p>Stage de fin d’études axé sur la conception et le développement d’une application mobile de covoiturage, visant à permettre aux utilisateurs d’une même communauté de partager efficacement leurs trajets. Les points clés de la mission incluent :</p><ul> <li>Conception et mise en place d’une architecture web et mobile</li> <li>Développement d’APIs RESTful pour la gestion des utilisateurs, trajets et réservations</li> <li>Intégration d’un système sécurisé d’authentification et d’autorisation</li> <li>Mise en œuvre de la géolocalisation et de l’optimisation d’itinéraires</li> <li>Modélisation de la base de données et optimisation des performances</li> <li>Utilisation d’outils et frameworks modernes (React, Node.js, MongoDB, etc.)</li> </ul>",
                             "tags": ["Flutter/Dart", "Node.js", "MongoDB", "REST", "Firebase"]
@@ -151,33 +151,33 @@
                         "faColors": {"bg": "#111", "fill": "#EEE"}
                     },
                     "dates": {
-                        "start": "12/01/2024",
-                        "end": "06/30/2025"
+                        "start": "02/01/2025",
+                        "end": "07/31/2025"
                     },
                     "locales": {
                         "en": {
-                            "title": "**FullStack** Developer",
-                            "info": "PolyTech(Hybride)",
-                            "text": "<p>As part of my final-year internship, I was tasked with designing a system to optimize the management of a carpooling vehicle fleet. The mission involved developing a web and mobile solution to centralize and efficiently monitor fleet operations, with a focus on:</p><ul><li>Security</li><li>Scalability to support millions of users worldwide</li><li>Development of RESTful APIs</li><li>Database performance optimization</li></ul>",
-                            "tags": ["React.js/Vite.js", "Tailwind CSS", "Node.js", "Express.js", "MongoDB", "RESTful APIs","Flutter/Dart,Firebase"]
+                            "title": "**Fullstack** Developer",
+                            "info": "PolyTech (Hybrid)",
+                            "text": "<p>Final-year internship focused on designing a fleet management platform. The mission involved building secure and scalable REST APIs and a reactive frontend:</p><ul><li>Requirements analysis and UML design & UI mockups</li><li>Microservices architecture with <b>NestJS</b></li><li>Vehicle, mission, intervention, and alert management</li><li>JWT authentication &amp; authorization</li><li>Frontend integration with <b>React.js + Tailwind CSS</b></li><li>Database performance optimization</li></ul>",
+                            "tags": ["NestJS", "React.js", "Tailwind CSS", "JWT", "MongoDB", "Microservices"]
                         },
                         "es": {
-                            "title": "Desarrollador **Backend Senior**",
-                            "info": "PolyTech(Hybride)",
-                            "text": "<p>Liderando un equipo de desarrolladores para diseñar e implementar soluciones backend para los servicios de Apple, con enfoque en:</p> <ul><li>Seguridad</li><li>Escalabilidad para manejar millones de usuarios a nivel global</li><li>Desarrollar APIs RESTful</li><li>Optimizar el rendimiento de bases de datos con PostgreSQL</li><li>Construcción de servicios con Swift, PHP y GraphQL</li></ul> <p class='mt-3'>Juntos, aseguramos que la infraestructura backend de Apple se mantenga robusta y eficiente.</p>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                            "title": "Desarrollador **Fullstack**",
+                            "info": "PolyTech (Hybrid)",
+                            "text": "<p>Prácticas de fin de carrera centradas en el diseño de una plataforma de gestión de flotas. La misión consistió en construir APIs REST seguras y escalables con un frontend reactivo:</p><ul><li>Análisis de requisitos y diseño UML y maquetas UI</li><li>Arquitectura de microservicios con <b>NestJS</b></li><li>Gestión de vehículos, misiones, intervenciones y alertas</li><li>Autenticación y autorización JWT</li><li>Integración frontend con <b>React.js + Tailwind CSS</b></li></ul>",
+                            "tags": ["NestJS", "React.js", "Tailwind CSS", "JWT", "MongoDB", "Microservices"]
                         },
                         "fr": {
-                            "title": "Développeur **FullStack**",
-                            "info": "PolyTech(Hybride)",
-                            "text": "<p>Dans le cadre de mon stage de fin d'études, j’ai été chargé de concevoir un système destiné à optimiser la gestion d’un parc automobile de covoiturage. La mission consistait à développer une solution web et mobile permettant de centraliser et de suivre efficacement les opérations liées au parc en se concentrant sur:</p> <ul><li>Sécurité</li><li>Scalabilité pour gérer des millions d'utilisateurs dans le monde</li><li>Développement d'APIs RESTful</li><li>Optimisation des performances des bases de données</li>",
-                            "tags": ["React.js/Vite.js", "Tailwind CSS", "Node.js", "Express.js", "MongoDB", "RESTful APIs","Flutter/Dart,Firebase"]
+                            "title": "Développeur **Fullstack**",
+                            "info": "PolyTech (Hybride)",
+                            "text": "<p>Stage de fin d’études axé sur la conception d’une plateforme de gestion de parc automobile. La mission consistait à développer des APIs REST sécurisées et évolutives avec une intégration frontend réactive :</p><ul><li>Analyse des besoins, conception UML &amp; maquettes UI</li><li>Architecture microservices avec <b>NestJS</b></li><li>Gestion des véhicules, missions, interventions et alertes</li><li>Authentification JWT</li><li>Intégration frontend <b>React.js + Tailwind CSS</b></li><li>Optimisation des performances des bases de données</li></ul>",
+                            "tags": ["NestJS", "React.js", "Tailwind CSS", "JWT", "MongoDB", "Microservices"]
                         },
                         "ko": {
-                            "title": "**수석 백엔드** 개발자",
-                            "info": "PolyTech(Hybride)",
-                            "text": "<p>Apple 서비스의 백엔드 솔루션을 설계하고 구현하는 개발 팀을 이끌며, 다음에 중점을 둡니다:</p> <ul><li>보안</li><li>수백만 명의 사용자를 처리할 수 있는 확장성</li><li>RESTful API 개발</li><li>PostgreSQL로 데이터베이스 성능 최적화</li><li>Swift, PHP, GraphQL로 서비스 구축</li></ul> <p class='mt-3'>우리는 함께 Apple의 백엔드 인프라가 견고하고 효율적으로 유지되도록 보장합니다.</p>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                            "title": "**풀스택** 개발자",
+                            "info": "PolyTech (하이브리드)",
+                            "text": "<p>차량 관리 플랫폼 설계에 초점을 맞춘 졸업 인턴십. 보안적이고 확장 가능한 REST API와 반응형 프론트엔드를 구축했습니다:</p><ul><li>요구사항 분석, UML 설계 및 UI 목업</li><li><b>NestJS</b>를 사용한 마이크로서비스 아키텍처</li><li>차량, 임무, 개입, 경보 관리</li><li>JWT 인증 및 인가</li><li><b>React.js + Tailwind CSS</b> 프론트엔드 통합</li></ul>",
+                            "tags": ["NestJS", "React.js", "Tailwind CSS", "JWT", "MongoDB", "Microservices"]
                         }
                     }
                 }

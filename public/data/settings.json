@@ -16,10 +16,10 @@
         "profilePictureUrl": "images/pictures/avatar.jpg",
 
         "locales": {
-            "en": {"role": "FullStack Developer"},
-            "es": {"role": "Desarrollador Web"},
-            "fr": {"role": "Développeur FullStack"},
-            "ko": {"role": "웹 개발자"}
+            "en": {"role": "Fullstack JavaScript Developer"},
+            "es": {"role": "Desarrollador Fullstack JavaScript"},
+            "fr": {"role": "Développeur Fullstack JavaScript"},
+            "ko": {"role": "풀스택 자바스크립트 개발자"}
         }
     },
 
@@ -30,7 +30,7 @@
         "locales": {
             "en": {"message": "Available for freelance!"},
             "es": {"message": "¡Disponible para freelance!"},
-            "fr": {"message": "Disponible pour freelance !"},
+            "fr": {"message": "Disponible en freelance !"},
             "ko": {"message": "프리랜스 가능합니다!"}
         }
     },
